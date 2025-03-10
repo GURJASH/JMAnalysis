@@ -1,0 +1,12 @@
+.DS_Store
+
+# Jupyter Notebook related
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# VS Code related
+.vscode/
+*.code-workspace
+
+# Python related
+venv/
